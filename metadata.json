@@ -1,0 +1,7 @@
+{
+  "name": "Finace app",
+  "description": "A sleek, dark-themed personal finance and budgeting manager designed for mobile excellence.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
